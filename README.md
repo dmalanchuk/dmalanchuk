@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Daniil Marysyk</h1>
 
-<!--
-**dmalanchuk/dmalanchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Python Developer | Backend Developer 🐍</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>As a Python developer, I specialize in building reliable
+web APIs and optimizing performance. I am detail-
+oriented and write clean, maintainable code.
+I have experience working with the FastAPI
+framework, using it to develop high-performance,
+scalable REST services. With FastAPI, I have
+implemented authentication systems, handled
+asynchronous requests, and integrated databases using
+SQLAlchemy.
+I am ready to contribute to high-performance projects
+where quality, scalability, and stability are essential.</p>
