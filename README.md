@@ -3,7 +3,7 @@
 <h3 align="center">Python Developer | Backend Developer 🐍</h3>
 
 
-<p>As a Python developer, I specialize in building reliable
+<p align="justify">As a Python developer, I specialize in building reliable
 web APIs and optimizing performance. I am detail-
 oriented and write clean, maintainable code.
 I have experience working with the FastAPI
