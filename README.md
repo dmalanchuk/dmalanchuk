@@ -3,14 +3,4 @@
 <h3 align="center">Python Developer | Backend Developer 🐍</h3>
 
 
-<p align="justify">As a Python developer, I specialize in building reliable
-web APIs and optimizing performance. I am detail-
-oriented and write clean, maintainable code.
-I have experience working with the FastAPI
-framework, using it to develop high-performance,
-scalable REST services. With FastAPI, I have
-implemented authentication systems, handled
-asynchronous requests, and integrated databases using
-SQLAlchemy.
-I am ready to contribute to high-performance projects
-where quality, scalability, and stability are essential.</p>
+<p align="justify">Experienced Backend Developer from Vinnytsia, Ukraine, with a strong focus on Python-based web development. Built a microservice platform for automated messaging at AutoMsgFlow using the ECA pattern, RabbitMQ, and Telegram integration. At IT-SCOUTS, developed backend features for a charity platform, including authentication and project management. Previously, at AnalyticBrands, worked on web scraping and data analysis to identify profitable product trends. Skilled in FastAPI, SQLAlchemy, PostgreSQL, and data tools like pandas and BeautifulSoup.</p>
